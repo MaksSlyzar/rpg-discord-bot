@@ -52,5 +52,5 @@ client.once(Events.InteractionCreate, (interaction) => {
     }
 });
 
-client.login("MTE5NDU0NzEyNTI3MTQxNjg5Mg.GCyeMT.be6gxuPkyUikKwFeu59CzUPkHIeXjzcAMTkYOw");
+client.login("");
 
